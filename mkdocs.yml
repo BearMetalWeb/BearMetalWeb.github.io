@@ -3,6 +3,7 @@ theme:
   name: material
   locale: en
   logo: img/favicon.png
+  favicon: img/favicon.png
   palette:
     scheme: slate
     primary: yellow
