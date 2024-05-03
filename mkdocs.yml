@@ -18,8 +18,8 @@ nav:
     - 'Motors': '/electronics/motors'
     - 'Components': '/electronics/components'
 
-  extra:
-    generator: false
+extra:
+  generator: false
 
 markdown_extensions:
   - admonition
