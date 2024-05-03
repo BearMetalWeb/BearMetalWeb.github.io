@@ -2,7 +2,7 @@ site_name: Bear Metal Docs
 theme:
   name: material
   locale: en
-  logo: img/favicon.png
+  logo: img/favicon.ico
   palette:
     scheme: slate
     primary: yellow
