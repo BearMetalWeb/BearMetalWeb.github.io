@@ -2,4 +2,4 @@
 
 ding ding ding
 
-![type:video](https://www.youtube.com/embed/fPqb69pu1P0)
+![type:video](videos/hightide.mp4)

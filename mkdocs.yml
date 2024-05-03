@@ -10,6 +10,8 @@ theme:
     accent: yellow
   font:
     text: Poppins
+  features:
+    - search.suggest
 nav: 
   - Home: 'index.md'
   - 'Design':
@@ -21,6 +23,7 @@ nav:
     - 'Components': '/electronics/components'
 plugins:
     - ffc-mkdocs-video
+    - search
 extra:
   generator: false
 
