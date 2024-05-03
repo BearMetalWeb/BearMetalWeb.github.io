@@ -8,7 +8,7 @@ Below are several motors and motor related hardware that we use.
 
 ## Kraken X60
 
-On our competition robots we mainly use Kraken X60 brushless motors. These motors have a lot of power behind them and have a built in motor controller, unlike the NEO series of motors which require external motor controllers.
+On our competition robots we mainly use Kraken X60 brushless motors. These motors have a lot of power behind them and have a built in motor controller, unlike the NEO series of motors which require external motor controllers. Krakens typically use 10awg wire for power.
 
 <img src="https://wcproducts.com/cdn/shop/files/WCP-0940_fe090b50-69bf-4bfb-926f-9ff3fd06c058_1024x1024.png?v=1697071738" alt="Kraken X60" width="400"/>
 
@@ -20,7 +20,7 @@ On our competition robots we mainly use Kraken X60 brushless motors. These motor
 !!! note "📝 Note:"
      It is unlikely for us to use these components on competition robots due to us transitioning to using Krakens, but they might be used during prototyping.
 
-NEO v1.1 and NEO 550 brushless motors require a Spark MAX motor controller in order for them to be controlled. Be careful when running NEO 550s, they are outrunner motors, which means that the shell of the motor rotates along with the shaft. The most obvious difference between NEO v1.1 motors and NEO 550s is that NEO v1.1 motors are significantly larger and have much more torque.
+NEO v1.1 and NEO 550 brushless motors require a Spark MAX motor controller in order for them to be controlled. Be careful when running NEO 550s, they are outrunner motors, which means that the shell of the motor rotates along with the shaft. The most obvious difference between NEO v1.1 motors and NEO 550s is that NEO v1.1 motors are significantly larger and have much more torque. NEO 550 and NEO v1.1 motors also use different size wires for power. NEO 550s use 16awg wire for power, and NEO v1.1 motors use 12awg wire for power.
 
 NEO v1.1:
 
