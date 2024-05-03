@@ -1,0 +1,1 @@
+python -m mkdocs gh-deploy --config-file ../BearMetalWeb.github.io/mkdocs.yml --remote-branch gh-page
