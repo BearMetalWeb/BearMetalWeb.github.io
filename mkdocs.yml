@@ -4,10 +4,11 @@ theme:
   locale: en
   palette:
     scheme: slate
-nav:
+nav: 
   - Home: 'index.md'
   - 'Design':
     - 'Design Home': '/design'
+    - 'Strategic Design': '/design/strategic-design'
   - 'Electronics':
     - 'Electronics Home': '/electronics'
     - 'Motors': '/electronics/motors'
