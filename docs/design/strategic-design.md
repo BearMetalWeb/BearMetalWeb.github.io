@@ -2,4 +2,4 @@
 
 ding ding ding
 
-![type:video](https://www.youtube.com/watch?v=fPqb69pu1P0)
+![type:video](https://www.youtube.com/embed/fPqb69pu1P0)
