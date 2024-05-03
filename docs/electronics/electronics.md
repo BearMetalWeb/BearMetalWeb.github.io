@@ -2,6 +2,8 @@
 
 This is a general knowledge base for the electronics subteam.
 
+---
+
 # Motors
 
 Below are several motors and motor related hardware that we use.
@@ -38,6 +40,8 @@ NEO 550:
 The Spark MAX is a motor controller that we use for both NEO v1.1 motors and NEO 550s.
 
 <img src="https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/360/2795/MAX_HERO-noflag__60247.1692730069.png?c=2" alt="Spark MAX" width="400"/>
+
+---
 
 # Electrical System Components
 
