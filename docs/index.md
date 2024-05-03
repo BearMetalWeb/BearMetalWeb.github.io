@@ -4,6 +4,6 @@
 
 Here you can find a lot of great information from different subteams.
 
-For design go [here.](/design)
+For design go [here.](/design/home)
 
-For electronics go [here.](/electronics)
+For electronics go [here.](/electronics/home)
