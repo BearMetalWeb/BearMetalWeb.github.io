@@ -14,11 +14,13 @@ On our competition robots we mainly use Kraken X60 brushless motors. These motor
 
 ## NEO Series
 
-
-!!! warning "⚠ WARNING"
+!!! warning "⚠ WARNING:"
     These motors use JST (Japan Solderless Terminal) crimps, which we do not like because they are a pain to fix when the wires break. The JST wires coming from the NEO motors are 24awg, so they are very fragile. **DO NOT bend JST WIRES at sharp angles, especially near the crimp, because they WILL break.**
 
-NEO v1.1 and NEO 550 brushless motors require a Spark MAX motor controller in order for them to be controlled. Be careful when running NEO 550s, they are outrunner motors, which means that the shell of the motor rotates along with the shaft. The most obvious difference between NEO v1.1 motors and NEO 550s is that NEO v1.1 motors are significantly larger and have much more torque. It is unlikely for us to use these on competition robots due to us transitioning to using Krakens, but may oftentimes be used during prototyping.
+!!! note "📝 Note:"
+     It is unlikely for us to use these components on competition robots due to us transitioning to using Krakens, but they might be used during prototyping.
+
+NEO v1.1 and NEO 550 brushless motors require a Spark MAX motor controller in order for them to be controlled. Be careful when running NEO 550s, they are outrunner motors, which means that the shell of the motor rotates along with the shaft. The most obvious difference between NEO v1.1 motors and NEO 550s is that NEO v1.1 motors are significantly larger and have much more torque.
 
 NEO v1.1:
 ![NEO v1.1](https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/752/3031/REV-21-1650-NEO1.1-Hero-FINAL__64905.1692730050.png?c=2)
@@ -29,6 +31,9 @@ NEO 550:
 
 ## Spark MAX
 
-The Spark MAX is a motor controller that we use for both NEO v1.1 motors and NEO 550s. It is unlikely for us to use this on competition robots due to us transitioning to using Krakens, but may oftentimes be used during prototyping.
+!!! note "📝 Note:"
+     It is unlikely for us to use this component on competition robots due to us transitioning to using Krakens, but it might be used during prototyping.
+
+The Spark MAX is a motor controller that we use for both NEO v1.1 motors and NEO 550s.
 
 ![Spark MAX](https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/360/2795/MAX_HERO-noflag__60247.1692730069.png?c=2)
