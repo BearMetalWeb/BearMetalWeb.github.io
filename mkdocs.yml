@@ -19,7 +19,8 @@ nav:
     - 'Electronics Home': '/electronics'
     - 'Motors': '/electronics/motors'
     - 'Components': '/electronics/components'
-
+plugins:
+    - ffc-mkdocs-video
 extra:
   generator: false
 
