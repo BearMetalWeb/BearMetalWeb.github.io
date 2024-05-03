@@ -28,9 +28,9 @@ The Voltage Regulator Module (VRM) is used to regulate voltage, specifically to 
 
 ---
 
-## CAN Bus
+## Five-Star
 
-The CAN Bus allows CAN to be routed to other components individually rather than in a daisy chain.
+The Five-Star allows CAN to be routed to other components individually rather than in a daisy chain.
 
 ---
 
