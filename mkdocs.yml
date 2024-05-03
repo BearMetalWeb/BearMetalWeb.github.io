@@ -19,3 +19,6 @@ nav:
 
 markdown_extensions:
   - admonition
+
+  extra:
+    generator: false
