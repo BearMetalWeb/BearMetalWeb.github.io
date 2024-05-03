@@ -1,6 +1,6 @@
 site_name: Bear Metal Docs
 theme:
-  name: mkdocs
+  name: material
   locale: en
   include_sidebar: true
   color_mode: dark
