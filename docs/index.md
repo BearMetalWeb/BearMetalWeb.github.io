@@ -4,6 +4,6 @@
 
 Here you can find a lot of great information from different subteams.
 
-For design go [here.](/design)
+[Design](/design){.md-button}
 
-For electronics go [here.](/electronics)
+[Electronics](/electronics){.md-button}
