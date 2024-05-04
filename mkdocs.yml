@@ -20,7 +20,8 @@ nav:
   - 'Electronics':
     - 'Electronics Home': '/electronics'
     - 'Motors': '/electronics/motors'
-    - 'Components': '/electronics/components'
+    - 'Electrical Components': '/electronics/electrical-components'
+    - 'Pneumatic Components': '/electronics/pneumatic-components'
 plugins:
     - ffc-mkdocs-video
     - search
