@@ -27,6 +27,7 @@ plugins:
     - search
 extra:
   generator: false
+copyright: Site founded by Matt and Corbin 🦅
 
 markdown_extensions:
   - admonition
