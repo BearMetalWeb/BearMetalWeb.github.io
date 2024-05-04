@@ -47,3 +47,43 @@ The Radio allows the robot to be controlled wirelessly through the driver's stat
 The Radio Power Module (RPM) is used to easily splice power into an ethernet cable, which will be used to power the radio using PoE (Power over Ethernet.)
 
 <img src="https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/601/3249/REV-11-1856-RadioPowerModule-Hero-FINAL__11706.1704391002.png?c=2" alt="RPM" width="400"/>
+
+---
+
+## CANCoder
+
+CANCoders are used to find how much rotating mechanisms have rotated and relay that data through the CAN system. The CANCoder itself is a small PCB, but is placed in close proximity to a cylindrical magnet that rotates with the rotating mechanism (for example, in an axle) whilst the CANCoder remains static. The CANCoder uses the magnet to find rotational data.
+
+<img src="https://cdn11.bigcommerce.com/s-7cuph2j78p/images/stencil/1280x1280/products/153/445/ccd1__25134.1674524028.jpg?c=1" alt="CANCoder" width="400"/>
+
+---
+
+## Main Breaker
+
+The Main Breaker interrupts the positive wire from the battery before it goes to the PDH or PDP. The large red button will disconnect power, and pushing the lever back in will restore power. When connecting the main breaker, make sure the "aux" terminal is connected to the PDP or PDH.
+
+<img src="https://cdn.andymark.com/product_images/120-amp-breaker/am_0282/5bd3e2f661a10d27d2433225/detail.jpg?c=1540612854" alt="Main Breaker" width="400"/>
+
+---
+
+## RoboRio
+
+The RoboRio is the code that runs robot code. It is an extremely important part of the robot (and expensive), so please try not to break it.
+
+<img src="https://th.bing.com/th/id/R.c8438c31a8e62e36edff0c85f10b40b6?rik=Givp77hTFUhDzA&riu=http%3a%2f%2fforums.ni.com%2flegacyfs%2fonline%2f174340_roboRIO+anaotated.png" alt="RoboRIO" width="400"/>
+
+---
+
+## Pigeon 2.0
+
+The Pigeon 2.0 inertial measurement unit is a gyroscope that assists the robot in knowing where it is on the field. Typically this component will be placed somewhere near the center of the robot.
+
+<img src="https://cdn11.bigcommerce.com/s-7cuph2j78p/images/stencil/1280x1280/products/210/613/Pigeon2__35998.1641996756.1280.1280__82782.1643919663.png?c=1" alt="Pigeon 2.0" width="400"/>
+
+---
+
+## RSL
+
+The Robot Signal Light (RSL) is a large orange light that displays the status of the robot. Solid means that the robot is powered on, but not enabled. Blinking means the robot is powered on and enabled. If the light is not on, the robot either doesn't have power or the RSL is not connected correctly.
+
+<img src="https://cdn.shopify.com/s/files/1/2572/4044/products/855BS-N10BL5_1000x1000_4c3f870e-fd17-4edb-9ba7-97bdd9be97c6_1024x1024.jpg?v=1531257333" alt="RSL" width="400"/>
