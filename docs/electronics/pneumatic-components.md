@@ -33,6 +33,6 @@ Pressure regulators regulate how much pressure is allowed in a certain part of t
 
 The pressure gauge displays the PSI of the section it is placed in the pneumatic system. We typically put these right after regulators.
 
-<img src="https://cdn.automationdirect.com/images/products/medium/m_g15bdv8lb.jpg" alt="Pressure Gauge" width="400"/>
+<img src="https://cdn1.bigcommerce.com/server3400/392a3/products/166/images/3409/PSB20-200__99757.1474577199.1280.1280.jpg?c=2" alt="Pressure Gauge" width="400"/>
 
 ---
