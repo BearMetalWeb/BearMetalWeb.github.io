@@ -6,8 +6,8 @@ theme:
   favicon: img/favicon.png
   palette:
     scheme: slate
-    primary: custom
-    accent: custom
+    primary: yellow
+    accent: yellow
   font:
     text: Poppins
   features:
@@ -31,15 +31,13 @@ nav:
     - 'Motors': '/electronics/motors'
     - 'Electrical Components': '/electronics/electrical-components'
     - 'Pneumatic Components': '/electronics/pneumatic-components'
-    - 'Example Electrical Diagrams': '/electronics/example-diagrams'
 plugins:
     - ffc-mkdocs-video
     - search
 extra:
   generator: false
 copyright: Site founded by Matt and Corbin 🦅
-extra_css:
-  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
   - pymdownx.details
