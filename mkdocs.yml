@@ -31,6 +31,7 @@ nav:
     - 'Motors': '/electronics/motors'
     - 'Electrical Components': '/electronics/electrical-components'
     - 'Pneumatic Components': '/electronics/pneumatic-components'
+    - 'Example Electrical Diagrams': '/electronics/example-diagrams'
 plugins:
     - ffc-mkdocs-video
     - search
