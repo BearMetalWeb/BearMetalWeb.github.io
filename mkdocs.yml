@@ -12,6 +12,7 @@ theme:
     text: Poppins
   features:
     - search.suggest
+    - navigation.top
 nav: 
   - Home: 'index.md'
   - 'Design':
