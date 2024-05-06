@@ -14,3 +14,4 @@
 *[PCB]: Printed Circuit Board
 *[RSL]: Robot Signal Light
 *[IMU]: Inertial Measurement Unit
+*[PoE]: Power Over Ethernet

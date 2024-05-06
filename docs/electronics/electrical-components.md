@@ -6,7 +6,7 @@ Below are several electrical system components that you may be working with on o
 
 ## PDH
 
-The Power Distribution Hub (PDH) distributes power from the battery throughout the robot's electrical system. We typically use the PDH due to it's ports being easier to open, it having a native voltage display, and other features not available on the PDP.
+The PDH distributes power from the battery throughout the robot's electrical system. We typically use the PDH due to it's ports being easier to open, it having a native voltage display, and other features not available on the PDP.
 
 <img src="https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/602/3245/REV-11-1850-Power-Distribution-Hub-Hero-FINAL__29576.1704386743.png?c=2" alt="PDH" width="400"/>
 
@@ -14,7 +14,7 @@ The Power Distribution Hub (PDH) distributes power from the battery throughout t
 
 ## PDP
 
-The Power Distribution Panel (PDP) serves the same purpose as the PDH. We don't typically use the PDP on competition robots due to the fact that it lacks features available on the PDH.
+The PDP serves the same purpose as the PDH. We don't typically use the PDP on competition robots due to the fact that it lacks features available on the PDH.
 
 <img src="https://cdn11.bigcommerce.com/s-7cuph2j78p/images/stencil/1280x1280/products/188/586/PDP__05475.1641569906.jpg?c=1" alt="PDP" width="400"/>
 
@@ -22,7 +22,7 @@ The Power Distribution Panel (PDP) serves the same purpose as the PDH. We don't 
 
 ## VRM
 
-The Voltage Regulator Module (VRM) is used to regulate voltage, specifically to components that require less power and use smaller gauge wire.
+The VRM is used to regulate voltage, specifically to components that require less power and use smaller gauge wire.
 
 <img src="https://cdn11.bigcommerce.com/s-7cuph2j78p/images/stencil/1280x1280/products/178/587/VRM__22344.1641570374.jpg?c=1" alt="VRM" width="400"/>
 
@@ -44,7 +44,7 @@ The Radio allows the robot to be controlled wirelessly through the driver's stat
 
 ## RPM
 
-The Radio Power Module (RPM) is used to easily splice power into an ethernet cable, which will be used to power the radio using PoE (Power over Ethernet.)
+The RPM is used to easily splice power into an ethernet cable, which will be used to power the radio using PoE.
 
 <img src="https://cdn11.bigcommerce.com/s-t3eo8vwp22/images/stencil/1280x1280/products/601/3249/REV-11-1856-RadioPowerModule-Hero-FINAL__11706.1704391002.png?c=2" alt="RPM" width="400"/>
 
@@ -66,9 +66,9 @@ The Main Breaker interrupts the positive wire from the battery before it goes to
 
 ---
 
-## RoboRio
+## RoboRIO
 
-The RoboRio is the code that runs robot code. It is an extremely important part of the robot (and expensive), so please try not to break it.
+The RoboRIO is the code that runs robot code. It is an extremely important part of the robot (and expensive), so please try not to break it.
 
 <img src="https://th.bing.com/th/id/R.c8438c31a8e62e36edff0c85f10b40b6?rik=Givp77hTFUhDzA&riu=http%3a%2f%2fforums.ni.com%2flegacyfs%2fonline%2f174340_roboRIO+anaotated.png" alt="RoboRIO" width="400"/>
 
@@ -84,6 +84,6 @@ The Pigeon 2.0 IMU is a gyroscope that assists the robot in knowing where it is 
 
 ## RSL
 
-The Robot Signal Light (RSL) is a large orange light that displays the status of the robot. Solid means that the robot is powered on, but not enabled. Blinking means the robot is powered on and enabled. If the light is not on, the robot either doesn't have power or the RSL is not connected correctly.
+The RSL is a large orange light that displays the status of the robot. Solid means that the robot is powered on, but not enabled. Blinking means the robot is powered on and enabled. If the light is not on, the robot either doesn't have power or the RSL is not connected correctly.
 
 <img src="https://cdn.shopify.com/s/files/1/2572/4044/products/855BS-N10BL5_1000x1000_4c3f870e-fd17-4edb-9ba7-97bdd9be97c6_1024x1024.jpg?v=1531257333" alt="RSL" width="400"/>
