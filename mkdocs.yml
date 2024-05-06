@@ -60,4 +60,4 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
     auto_append:
-      - includes/abbreviationz.md
+      - includes/abbreviations.md
