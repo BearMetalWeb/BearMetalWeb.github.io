@@ -13,6 +13,7 @@ theme:
   features:
     - search.suggest
     - navigation.top
+    - content.tooltips
 nav: 
   - Home: 'index.md'
   - 'Design':
@@ -41,6 +42,7 @@ extra:
 copyright: Site founded by Matt and Corbin 🦅
 
 markdown_extensions:
+  - abbr
   - admonition
   - pymdownx.details
   - attr_list
@@ -58,6 +60,6 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
-    auto_append:
-      - includes/abbreviations.md
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
