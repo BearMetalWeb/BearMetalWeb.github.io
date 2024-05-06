@@ -34,7 +34,7 @@ NEO 550:
 
 ## Spark MAX
 
-!!! note "📝 Note:"
+!!! note "Note:"
      It is unlikely for us to use this component on competition robots due to us transitioning to using Krakens, but it might be used during prototyping.
 
 The Spark MAX is a motor controller that we use for both NEO v1.1 motors and NEO 550s.
