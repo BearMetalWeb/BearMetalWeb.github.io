@@ -15,7 +15,7 @@ On our competition robots we mainly use Kraken X60 brushless motors. These motor
 ## NEO Series
 
 !!! warning "WARNING:"
-    These motors use JST (Japan Solderless Terminal) crimps, which we do not like because they are a pain to fix when the wires break. The JST wires coming from the NEO motors are 24AWG, so they are very fragile. **DO NOT bend JST WIRES at sharp angles, especially near the crimp, because they WILL break.**
+    These motors use JST crimps, which we do not like because they are a pain to fix when the wires break. The JST wires coming from the NEO motors are 24AWG, so they are very fragile. **DO NOT bend JST WIRES at sharp angles, especially near the crimp, because they WILL break.**
 
 !!! note "Note:"
      It is unlikely for us to use these components on competition robots due to us transitioning to using Krakens, but they might be used during prototyping.

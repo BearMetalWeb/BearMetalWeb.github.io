@@ -10,3 +10,7 @@
 *[PCM]: Pneumatic Control Module
 *[PSI]: Pounds per Square Inch
 *[RPM]: Radion Power Module
+*[AWG]: American Wire Gauge
+*[PCB]: Printed Circuit Board
+*[RSL]: Robot Signal Light
+*[IMU]: Inertial Measurement Unit

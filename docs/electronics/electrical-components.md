@@ -76,7 +76,7 @@ The RoboRio is the code that runs robot code. It is an extremely important part 
 
 ## Pigeon 2.0
 
-The Pigeon 2.0 inertial measurement unit is a gyroscope that assists the robot in knowing where it is on the field. Typically this component will be placed somewhere near the center of the robot.
+The Pigeon 2.0 IMU is a gyroscope that assists the robot in knowing where it is on the field. Typically this component will be placed somewhere near the center of the robot.
 
 <img src="https://cdn11.bigcommerce.com/s-7cuph2j78p/images/stencil/1280x1280/products/210/613/Pigeon2__35998.1641996756.1280.1280__82782.1643919663.png?c=1" alt="Pigeon 2.0" width="400"/>
 
