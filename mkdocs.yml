@@ -59,3 +59,5 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+    auto_append:
+      - includes/abbreviationz.md
