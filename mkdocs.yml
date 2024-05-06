@@ -1,4 +1,5 @@
 site_name: Bear Metal Docs
+site_url: https://bearmetalweb.github.io
 theme:
   name: material
   locale: en
@@ -37,6 +38,7 @@ nav:
 plugins:
     - ffc-mkdocs-video
     - search
+    - social
 extra:
   generator: false
 copyright: Site founded by Matt and Corbin 🦅
