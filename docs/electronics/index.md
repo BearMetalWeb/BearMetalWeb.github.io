@@ -10,7 +10,7 @@ hide:
 > ~ Corbin
 
 <div class="grid cards" markdown>
--    <p style="text-align: center;">[:material-weather-windy: Motors](/electronics/motors){.md-button}</p>
+-    <p style="text-align: center;">[:material-engine-outline: Motors](/electronics/motors){.md-button}</p>
 
     ---
 
@@ -22,7 +22,7 @@ hide:
 
     Here you can find information about different electrical components. </p>   
 
--   <p style="text-align: center;">[:fontawesome-solid-wind: Pneumatic Components](/electronics/pneumatic-components){.md-button}</p>
+-   <p style="text-align: center;">[:material-weather-windy: Pneumatic Components](/electronics/pneumatic-components){.md-button}</p>
 
     ---
 
