@@ -15,3 +15,5 @@
 *[RSL]: Robot Signal Light
 *[IMU]: Inertial Measurement Unit
 *[PoE]: Power Over Ethernet
+*[COTS]: Commercial-Off-The-Shelf
+*[CAM]: Computer-Aided Machining
