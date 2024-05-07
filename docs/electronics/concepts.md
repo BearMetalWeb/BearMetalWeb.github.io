@@ -12,12 +12,12 @@ In order to understand Ohm's Law, you need to understand what voltage, amperage,
 
 ### Voltage
 
-Voltage is the measure of potential electrical energy in between two points. This is measured in Volts.
+Voltage is the measure of potential difference in the charge of the positive and negative terminals of a system. This is measured in Volts (V).
 
 
 ### Amperage
 
-Amperage is the rate that electric charge flows through a circuit. This is measured in Amps or Amperes (A).
+Amperage is the magnitude of the charge being transferred. This is measured in Amps or Amperes (A).
 
 ### Resistance
 
