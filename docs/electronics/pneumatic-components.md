@@ -25,7 +25,7 @@ The accumulator(s) store compressed air for future use in the pneumatic system. 
 
 ## Regulator
 
-Pressure regulators regulate how much pressure is allowed in a certain part of the pneumatics system. We typically have one regulator before the accumulator set to 120 PSI, and one after the accumulator set to 60 PSI.
+Pressure regulators regulate how much pressure is allowed in a certain part of the pneumatics system. We typically have one regulator before the accumulator set to 120 PSI (stored pressure), and one after the accumulator set to 60 PSI (working pressure).
 
 ---
 
