@@ -33,6 +33,7 @@ nav:
     - 'Motors': '/electronics/motors'
     - 'Electrical Components': '/electronics/electrical-components'
     - 'Pneumatic Components': '/electronics/pneumatic-components'
+    - 'Concepts': '/electronics/concepts'
 plugins:
     - ffc-mkdocs-video
     - search

@@ -87,3 +87,11 @@ The Pigeon 2.0 IMU is a gyroscope that assists the robot in knowing where it is 
 The RSL is a large orange light that displays the status of the robot. Solid means that the robot is powered on, but not enabled. Blinking means the robot is powered on and enabled. If the light is not on, the robot either doesn't have power or the RSL is not connected correctly.
 
 <img src="https://cdn.shopify.com/s/files/1/2572/4044/products/855BS-N10BL5_1000x1000_4c3f870e-fd17-4edb-9ba7-97bdd9be97c6_1024x1024.jpg?v=1531257333" alt="RSL" width="400"/>
+
+---
+
+## CANivore
+
+The CANivore is a CAN-to-USB adapter that allows us to create an entirely new CAN network. This allows us to split all CAN connected components in our robot into different groups. For example, in the 2024 season we had all of our mechanisms daisy chained to the RoboRIO's CAN port, and we had our swerve motors and CANCoders daisy chained to a CANivore. One of the downsides to CANivores is that we need to manually add terminating resistors to the end of daisy chained systems that use a CANivore.
+
+<img src="https://cdn11.bigcommerce.com/s-7cuph2j78p/images/stencil/1280x1280/products/211/616/canivore_main__07095.1638900553.1280.1280__43296.1643920037.png?c=1" alt="CANivore" width="400"/>
