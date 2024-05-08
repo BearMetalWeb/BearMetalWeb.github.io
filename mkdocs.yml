@@ -38,6 +38,7 @@ nav:
 plugins:
     - ffc-mkdocs-video
     - search
+    - social
 extra:
   generator: false
 copyright: Site founded by Matt and Corbin 🦅
