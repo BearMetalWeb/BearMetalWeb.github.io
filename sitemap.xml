@@ -71,11 +71,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bearmetalweb.github.io/electronics/concepts-CORBIN-ACER/</loc>
-         <lastmod>2024-05-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://bearmetalweb.github.io/electronics/concepts/</loc>
          <lastmod>2024-05-09</lastmod>
          <changefreq>daily</changefreq>
@@ -92,6 +87,11 @@
     </url>
     <url>
          <loc>https://bearmetalweb.github.io/electronics/pneumatic-components/</loc>
+         <lastmod>2024-05-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bearmetalweb.github.io/electronics/safety/</loc>
          <lastmod>2024-05-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
