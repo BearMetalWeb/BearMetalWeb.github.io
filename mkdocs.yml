@@ -35,6 +35,7 @@ nav:
     - 'Electrical Components': '/electronics/electrical-components'
     - 'Pneumatic Components': '/electronics/pneumatic-components'
     - 'Concepts': '/electronics/concepts'
+    - 'Safety': '/electronics/safety'
 plugins:
     - ffc-mkdocs-video
     - search
