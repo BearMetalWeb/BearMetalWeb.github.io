@@ -12,7 +12,7 @@ Solder typically contains lead. It is for this reason that you **NEVER** eat whi
 
 When working on electrical components **ALWAYS** ensure that the system or component you are working on is **OFF.** Keep your hair and any loose articles of clothing away from any moving components such as motors, gearboxes, and other mechanisms. **WEAR SAFETY GLASSES** when running electrical components.
 
-When working with batteries **DO NOT BRIDGE TERMINALS OR BATTERY WIRES.** This is not only unsafe, but can damage our batteries as well. You will probably know if this happens, as it typically emits sparks. In general, do not bridge wires or connections unless you know what you are doing.
+When working with batteries **DO NOT BRIDGE TERMINALS OR BATTERY WIRES.** This is not only unsafe, but can damage our batteries as well. You will probably know if this happens, as it typically emits sparks. In general, **do not** bridge wires or connections unless you know what you are doing.
 
 ## Pneumatics
 
