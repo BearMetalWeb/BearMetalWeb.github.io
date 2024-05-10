@@ -33,10 +33,4 @@ hide:
     ---
 
     Here you can find information about concepts we use in electronics. </p>   
-
--   <p style="text-align: center;">[:material-sign-caution: Safety](/electronics/safety){.md-button}</p>
-
-    ---
-
-    Here you can find information regarding safety in electronics. </p>   
 </div>
