@@ -1,3 +1,6 @@
+---
+description: Bear Metal Knowledge Base
+---
 # Home
 
 ## Welcome to Bear Metal Docs!
