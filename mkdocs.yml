@@ -38,9 +38,7 @@ nav:
 plugins:
     - ffc-mkdocs-video
     - search
-    - social:
-        cards_layout_options:
-          font_family: Orbitron
+    - social
 extra:
   generator: false
 copyright: Site founded by Matt and Corbin 🦅
