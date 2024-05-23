@@ -1,3 +1,7 @@
+---
+description: Information regarding various pneumatic components commonly used in FRC.
+---
+
 # Pneumatic System Components
 
 !!! note "Note:"

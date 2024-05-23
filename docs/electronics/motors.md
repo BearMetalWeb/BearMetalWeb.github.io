@@ -1,3 +1,8 @@
+---
+description: Information regarding commonly used motors in FRC.
+---
+
+
 # Motors
 
 Motors are a crucial part of nearly every moving mechanism. Below are several motors and motor related hardware that we use.

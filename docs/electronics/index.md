@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+
+description: Homepage for Electronics.
 ---
 # Electronics Documentation
 ---

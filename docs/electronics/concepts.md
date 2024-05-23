@@ -1,3 +1,8 @@
+---
+description: Concepts that will be helpful to electrical subteam members.
+---
+
+
 # Concepts
 
 These are some concepts you will be expected to know, as they are a fundamental part of understanding how an electrical system functions.

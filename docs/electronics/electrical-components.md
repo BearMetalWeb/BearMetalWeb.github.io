@@ -1,3 +1,8 @@
+---
+description: Information regarding various electrical components commonly used in FRC control systems.
+---
+
+
 # Electrical System Components
 
 Below are several electrical system components that you may be working with on our robots.
