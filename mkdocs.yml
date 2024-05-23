@@ -40,7 +40,7 @@ plugins:
     - search
     - social:
         cards_layout_options:
-          font_family: Orbitron
+          font_family: Roboto
 extra:
   generator: false
 copyright: Site founded by Matt and Corbin 🦅
