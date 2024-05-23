@@ -39,6 +39,7 @@ plugins:
     - ffc-mkdocs-video
     - search
     - social
+    # figure out how to use xolonium at some point instead of default font.
 extra:
   generator: false
 copyright: Site founded by Matt and Corbin 🦅
