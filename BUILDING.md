@@ -25,4 +25,4 @@ pip install mkdocs-material[imaging]
 
 On top of these requirements, make sure you install Cairo Graphics and pngquant. Reference [this guide.](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/)
 
-After the requirements are installed, ou can run `mkdocs serve` or `python -m mkdocs serve` in your local website directory.
+After the requirements are installed, you can run `mkdocs serve` or `python -m mkdocs serve` in your local website directory.
