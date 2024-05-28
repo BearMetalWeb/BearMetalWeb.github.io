@@ -14,7 +14,7 @@ In your environment of choice run `docker build . --build-arg TOKEN=YOUR_TOKEN_H
 
 Due to the fact that codespaces contain the [Default Environment Variable](https://docs.github.com/en/codespaces/developing-in-a-codespace/default-environment-variables-for-your-codespace) `GITHUB_TOKEN` you can simply run `docker build . --build-arg TOKEN=$GITHUB_TOKEN` if you are working in a codespace. Codespaces also have Docker installed by default.
 
-## Creating a local instance of the site (for testing)
+## Creating a local instance of the site
 
 Make sure you have the mkdocs video and imaging requirements installed before attempting host the website locally. You can do this by running the following commands.
 
