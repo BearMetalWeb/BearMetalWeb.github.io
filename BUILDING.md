@@ -2,16 +2,7 @@
 
 ## Prerequisites
 
-Building and pushing the website on your own computer requires [Docker.](https://www.docker.com/)
-
-Make sure you have the mkdocs video and imaging requirements installed before attempting to build and update the website or host it locally. You can do this by running the following commands.
-
-```
-pip install ffc-mkdocs-video
-pip install mkdocs-material[imaging]
-```
-
-On top of these requirements, make sure you install Cairo Graphics and pngquant. Reference [this guide.](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/)
+Building and pushing the website requires [Docker.](https://www.docker.com/) If you are working on a Codespace it will be installed by default.
 
 ## Building and pushing the website
 
@@ -25,4 +16,13 @@ Due to the fact that codespaces contain the [Default Environment Variable](https
 
 ## Creating a local instance of the site (for testing)
 
-You can run `mkdocs serve` or `python -m mkdocs serve` in your local website directory.
+Make sure you have the mkdocs video and imaging requirements installed before attempting host the website locally. You can do this by running the following commands.
+
+```
+pip install ffc-mkdocs-video
+pip install mkdocs-material[imaging]
+```
+
+On top of these requirements, make sure you install Cairo Graphics and pngquant. Reference [this guide.](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/)
+
+After the requirements are installed, ou can run `mkdocs serve` or `python -m mkdocs serve` in your local website directory.
